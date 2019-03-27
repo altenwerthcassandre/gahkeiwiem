@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://amaicukuof.lewandowski.io/sitemap.xml
